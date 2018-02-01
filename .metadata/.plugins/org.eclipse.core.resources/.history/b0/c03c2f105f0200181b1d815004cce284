@@ -1,0 +1,4 @@
+
+public class smartPhone extends Phone implements Mp3Plaayer,NewFunction {
+
+}
